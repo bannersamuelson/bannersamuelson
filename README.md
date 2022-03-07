@@ -1,5 +1,5 @@
 ## About Me!
-> Software Engineer with a speciality in Front-End design and layout implementations. Love to code and make webpages that push the industry standard. My current skills include but are not limited to:
+> Software Engineer with a speciality in Front-End design and layout implementations. Love to code and make webpages that push the industry standard.
 
 ## How to reach me:
 [![Gmail contact badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bannersamuelson@gmail.com)
