@@ -1,4 +1,4 @@
-## About Me!
+## Mission Statement
 > Software Engineer with a speciality in Front-End design and layout implementations. Love to code and make webpages that push the industry standard.
 
 ## How to reach me:
